@@ -1,1 +1,1 @@
-Projetos feitos em HTML, CSS(SASS) e JavaScript. Foram criados baseados em outros sites ou projetos. Imagens, ícones e vídeos pegos dos sites: https://storyset.com/ , https://unsplash.com/ , https://www.freepik.com/ , https://icons8.com
+Projetos feitos em HTML, CSS(SASS), JavaScript e Bootstrap. Foram criados baseados em outros sites ou projetos. Imagens, ícones e vídeos pegos dos sites: https://storyset.com/ , https://unsplash.com/ , https://www.freepik.com/ , https://icons8.com
